@@ -1,5 +1,5 @@
----l
-uckyWord: 555
+---
+luckyWord: 555
 ---
 eureka:
   client:
