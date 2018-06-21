@@ -1,24 +1,24 @@
-  ---
-  spring: 
-    profiles: subject
+---
+spring: 
+  profiles: subject
   words: I,You,He,She,It
   
-  ---
-  spring: 
-    profiles: verb
+--- 
+spring:
+  profiles: verb
   words: ran,knew,had,saw,bought
 
-  ---
-  spring: 
-    profiles: article
+--- 
+spring: 
+  profiles: article
   words: a,the
 
-  ---
-  spring: 
-    profiles: adjective
+---
+spring: 
+  profiles: adjective
   words: reasonable,leaky,suspicious,ordinary,unlikely
 
-  ---
-  spring: 
-    profiles: noun
+---
+spring: 
+  profiles: noun
   words: boat,book,vote,seat,backpack,partition,groundhog  
